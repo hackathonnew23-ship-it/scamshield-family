@@ -1,0 +1,1 @@
+{"name":"ScamShield Family","short_name":"ScamShield","description":"Check messages, calls, numbers and QR codes for scams","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#030812","theme_color":"#071230","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
