@@ -3,7 +3,7 @@
 **Offline-first scam protection app for families in India. Check messages, calls, numbers and QR codes before you lose money.**
 
 Live demo: https://golden-phoenix-c1b67c.netlify.app
-Demo video: <PASTE VIDEO LINK HERE>
+Demo video: https://youtu.be/894ZNJ-I6N0
 
 ---
 
